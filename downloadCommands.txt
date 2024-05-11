@@ -1,0 +1,2 @@
+Invoke-WebRequest https://eu8.dl.visual-paradigm.com/visual-paradigm/vp17.1/20240501/Visual_Paradigm_17_1_20240501_Win64.exe -O visual_paradigm.exe
+Invoke-WebRequest https://tdf.mirror.garr.it/libreoffice/stable/24.2.3/win/x86_64/LibreOffice_24.2.3_Win_x86-64.msi -O libre_office.exe
